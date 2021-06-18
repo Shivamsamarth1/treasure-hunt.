@@ -1,2 +1,2 @@
-# treasure-hunt.
-project 43
+# Project43
+Treasure Hunt
